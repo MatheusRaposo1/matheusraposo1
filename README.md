@@ -1,6 +1,7 @@
 ## Olá! eu sou Matheus Raposo
 - 💻 Desenvolvedor Fullstack
 - 👦 Pronomus: Ele/dele
+- 📚 Cursando Licenciatura em Física no IFMA
 - ✍ Estudando: .net Core , .net Framework e React.js
 - 🧠 Conhecimento: C# , Html, Css, Javascript
 - ✉  Email para contato: matheus-raposo1@hotmail.com
