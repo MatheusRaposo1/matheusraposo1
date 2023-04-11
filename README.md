@@ -2,7 +2,7 @@
 - 💻 Desenvolvedor Fullstack
 - 👦 Pronomus: Ele/dele
 - 📚 Cursando Licenciatura em Física no IFMA
-- ✍ Estudando: .net Core , .net Framework e React.js
+- ✍ Estudando: python
 - 🧠 Conhecimento: C# , Html, Css, Javascript
 - ✉  Email para contato: matheus-raposo1@hotmail.com
 - 📱  Telefone para contato: (98)98432-0112
