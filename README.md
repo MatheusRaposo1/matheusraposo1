@@ -2,7 +2,7 @@
 - 💻 Desenvolvedor Fullstack
 - 👦 Pronomus: Ele/dele
 - 📚 Cursando Licenciatura em Física no IFMA
-- ✍ Estudando: python, Web API ASP .NET Core Essencial (.NET 6), React.js
+- ✍ Estudando: python, Web API ASP .NET Core Essencial (.NET 6), React.js e Java
 - 🧠 Conhecimento: C# , Html, Css, Javascript
 - ✉  Email para contato: matheus-raposo1@hotmail.com
 - 📱  Telefone para contato: (98)98432-0112
