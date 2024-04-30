@@ -1,5 +1,5 @@
 ## Olá! eu sou Matheus Raposo
-- 💻 Desenvolvedor Fullstack
+- 💻 Desenvolvedor Fullstack e Estudante de Sistemas da informação
 - 👦 Pronomus: Ele/dele
 - 📚 Cursando Licenciatura em Física no IFMA
 - ✍ Estudando: python, Web API ASP .NET Core Essencial (.NET 6), React.js e Java
