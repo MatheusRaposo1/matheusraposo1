@@ -2,8 +2,8 @@
 - 💻 Desenvolvedor Fullstack e Estudante de Sistemas da informação
 - 👦 Pronomus: Ele/dele
 - 📚 Cursando Sistemas de Informação no IFMA
-- ✍ Estudando: python, Web API ASP .NET Core Essencial (.NET 6), React.js e Java
-- 🧠 Conhecimento: C# , Html, Css, Javascript
+- ✍ Estudando:React.js
+- 🧠 Conhecimento: Java, Html, Css, Javascript
 - ✉  Email para contato: matheus-raposo1@hotmail.com
 - 📱  Telefone para contato: (98)98432-0112
 - 👨‍💻 LinkedIn: https://www.linkedin.com/in/matheusrapos0/ 
