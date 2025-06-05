@@ -2,7 +2,7 @@
 - 💻 Desenvolvedor Fullstack e Estudante de Sistemas da informação - 3 período
 - 👦 Pronomus: Ele/dele
 - 📚 Cursando Sistemas de Informação no IFMA
-- ✍ Estudando:React.js,PostgreSQL
+- ✍ Estudando:React.js,Sequelize
 - 🧠 Conhecimento: Noje.js, Express.js, Html5, Css, Javascript,mySQL
 - ✉  Email para contato: matheus-raposo1@hotmail.com
 - 📱  Telefone para contato: (98)98432-0112
