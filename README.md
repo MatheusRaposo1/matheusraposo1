@@ -1,5 +1,5 @@
 ## Olá! eu sou Matheus Raposo
-- 💻 Desenvolvedor Fullstack e Estudante de Sistemas da informação - 3 período
+- 💻 Desenvolvedor Fullstack e Estudante de Sistemas da informação - 5 período
 - 👦 Pronomus: Ele/dele
 - 📚 Cursando Sistemas de Informação no IFMA
 - ✍ Estudando:React.js,Sequelize
