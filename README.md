@@ -1,9 +1,9 @@
 ## Olá! eu sou Matheus Raposo
-- 💻 Desenvolvedor Fullstack e Estudante de Sistemas da informação - 5 período
+- 💻 Desenvolvedor Fullstack e Estudante de Sistemas da informação - 6 período
 - 👦 Pronomus: Ele/dele
 - 📚 Cursando Sistemas de Informação no IFMA
 - ✍ Estudando:React.js,Sequelize
-- 🧠 Conhecimento: Noje.js, Express.js, Html5, Css, Javascript,mySQL
+- 🧠 Conhecimento: Noje.js, Express.js, Html5, Css, Javascript, mySQL, tailwind
 - ✉  Email para contato: matheus-raposo1@hotmail.com
 - 📱  Telefone para contato: (98)98432-0112
 - 👨‍💻 LinkedIn: https://www.linkedin.com/in/matheusrapos0/ 
